@@ -1,3 +1,3 @@
 # SCS1303
-This is a course introduction.
+This is the course introduction.
 This is a new line.
